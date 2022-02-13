@@ -1,0 +1,12 @@
+.*
+!.gitignore
+!.assets
+video_project
+深蹲检测/repCounter
+#!深蹲检测/文档.docx
+data/*
+!data/share
+*__pycache__
+mediapipe
+test
+
